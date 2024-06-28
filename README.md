@@ -4,9 +4,12 @@ https://antichess.netlify.app/
 # To run it locally 
 
 I. clone the repo.
-II. go to the project directory 
+
+II. go to the project directory.
+
 III. Open cmd in the directory and type npm install dependencies.
-IV. run npm start
+
+IV. run npm start.
 
 
 # Getting Started with Create React App
